@@ -1,0 +1,20 @@
+c:\users\note\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SIMULADOR FSX.exe.config
+c:\users\note\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\note\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\note\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\note\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\note\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SIMULADOR FSX.exe
+c:\users\note\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SIMULADOR FSX.pdb
+c:\users\note\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.FlightSimulator.SimConnect.dll
+c:\users\note\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SIMULADOR FSX.exe
+c:\users\note\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SIMULADOR FSX.pdb
+C:\Users\Note\Documents\GitHub\simulador_fsx\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SIMULADOR FSX.exe.config
+C:\Users\Note\Documents\GitHub\simulador_fsx\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SIMULADOR FSX.exe
+C:\Users\Note\Documents\GitHub\simulador_fsx\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SIMULADOR FSX.pdb
+C:\Users\Note\Documents\GitHub\simulador_fsx\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SIMULADOR FSX.exe
+C:\Users\Note\Documents\GitHub\simulador_fsx\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SIMULADOR FSX.pdb
+C:\Users\Note\Documents\GitHub\simulador_fsx\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.FlightSimulator.SimConnect.dll
+C:\Users\Note\Documents\GitHub\simulador_fsx\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Note\Documents\GitHub\simulador_fsx\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Note\Documents\GitHub\simulador_fsx\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Note\Documents\GitHub\simulador_fsx\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
