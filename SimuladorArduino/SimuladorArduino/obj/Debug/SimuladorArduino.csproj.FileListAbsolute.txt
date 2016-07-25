@@ -1,0 +1,10 @@
+c:\users\note\documents\visual studio 2015\Projects\SimuladorArduino\SimuladorArduino\bin\Debug\SimuladorArduino.exe.config
+c:\users\note\documents\visual studio 2015\Projects\SimuladorArduino\SimuladorArduino\obj\Debug\SimuladorArduino.csprojResolveAssemblyReference.cache
+c:\users\note\documents\visual studio 2015\Projects\SimuladorArduino\SimuladorArduino\obj\Debug\SimuladorArduino.Form1.resources
+c:\users\note\documents\visual studio 2015\Projects\SimuladorArduino\SimuladorArduino\obj\Debug\SimuladorArduino.Properties.Resources.resources
+c:\users\note\documents\visual studio 2015\Projects\SimuladorArduino\SimuladorArduino\obj\Debug\SimuladorArduino.csproj.GenerateResource.Cache
+c:\users\note\documents\visual studio 2015\Projects\SimuladorArduino\SimuladorArduino\bin\Debug\SimuladorArduino.exe
+c:\users\note\documents\visual studio 2015\Projects\SimuladorArduino\SimuladorArduino\bin\Debug\SimuladorArduino.pdb
+c:\users\note\documents\visual studio 2015\Projects\SimuladorArduino\SimuladorArduino\obj\Debug\SimuladorArduino.exe
+c:\users\note\documents\visual studio 2015\Projects\SimuladorArduino\SimuladorArduino\obj\Debug\SimuladorArduino.pdb
+c:\users\note\documents\visual studio 2015\Projects\SimuladorArduino\SimuladorArduino\bin\Debug\Microsoft.FlightSimulator.SimConnect.dll
